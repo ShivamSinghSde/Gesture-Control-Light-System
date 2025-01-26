@@ -11,6 +11,6 @@ Features:
 
 Libraries required to install:
 
-OpenCV: pip install opencv-python
-MediaPipe: pip install mediapipe
-NumPy: pip install numpy
+1. OpenCV: pip install opencv-python
+2. MediaPipe: pip install mediapipe
+3. NumPy: pip install numpy
